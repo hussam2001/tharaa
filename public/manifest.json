@@ -1,0 +1,18 @@
+{
+  "name": "Thara Global - Investment Company",
+  "short_name": "Thara Global",
+  "description": "Pioneering sustainable investment solutions in Oman. Licensed by CMA with 50+ years experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
+
